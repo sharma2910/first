@@ -6,7 +6,7 @@
 .row-content{
     margin: 0px auto;
     padding: 50px 0px 50px 0px;
-    border-bottom: 1px ridge;
+    border-bottom: 0px ridge;
     min-height: 400px;
 }
 
@@ -20,7 +20,7 @@
     padding: 70px 30px ;
     margin: 0px auto;
     background: #9575CD;
-    color: floralwhite;
+    color: floralwhite;   
 }
 
 address{
@@ -36,4 +36,10 @@ body{
 
 .navbar-inverse {
     background-color: #512DA8;
+}
+
+.container{
+
+    border: 0px;
+    border-top: 0px;
 }

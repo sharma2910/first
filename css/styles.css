@@ -57,3 +57,18 @@ body{
     min-height: 300px;
     
 }
+
+.tab-content{
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px; 
+}
+
+.cardinside{
+    padding: 10px;
+}
+
+.pad{
+    padding: 10px 10px 10px 10px;
+}

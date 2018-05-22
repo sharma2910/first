@@ -72,3 +72,10 @@ body{
 .pad{
     padding: 10px 10px 10px 10px;
 }
+
+#carouselButton{
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+    
+}
